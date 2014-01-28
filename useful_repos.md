@@ -28,7 +28,7 @@ This section is devoted to repos that contain useful information, examples and t
 **Stata** <br />
 Stata is the stats and data management program that we all know and love. Some of our very own staff are writing very cool programs for stata. 
 
-This section is devoted to repos developed by IPA/J-PAL staff that showcase programs written for stata and code that relates to data work. Let's see some of the magic our staff are working with the economists most favoured stas package! 
+This section is devoted to repos developed by IPA/J-PAL staff that showcase programs written for stata and code that relates to data work. Let's see some of the magic our staff are working with the economist's most favoured stas package! 
 
 | **Title**	   | **link** | ** Description** |
 |	  ---	   |   ---	  |		  ---	     |
@@ -44,7 +44,7 @@ This section is devoted to repos developed by IPA/J-PAL staff that utilise pytho
 
 <br />
 **Pandas/Scipy** <br />
-Pandas is the python library developed by Wes McKinney. The flexibility and objects available to python programmers are enhanced by the DataFrame object and the NumPy objects (ndarrays) upon which the library is built. SciPy is the python library that will do your serious analysis for you as well as some serious scientific computing. Get to know this library and the world of data will bow down before you. 
+Pandas is the python library developed by Wes McKinney. The flexibility and objects available to python programmers are enhanced by the DataFrame object and the NumPy objects (ndarrays) upon which the library is built. SciPy is the python library that will do your serious analysis for you as well as some hardcore scientific computing. Get to know this library and the world of data will bow down before you. 
 
 This section is devoted to repos developed by IPA/J-Pal staff that showcase code that uses pandas/Scipy for data work. Once used the user will never look back!
 
@@ -53,7 +53,7 @@ This section is devoted to repos developed by IPA/J-Pal staff that showcase code
 
 <br />
 **R** <br />
-R is a free software programming language and software environment for statistical computing and graphics. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. The author has no experience with R, but hears that a lot of very awesome people are using it. Who will triumph, pandas or R? We wait with baited breath.
+R is a free software programming language and software environment for statistical computing and graphics. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. The author has no experience with R, but hears that a lot of very awesome people are using it. Who will triumph, pandas or R? We wait with baited breath!!!
  
 This section is devoted to repos developed by IPA/J-Pal staff that showcase code that uses R for data work.
 
