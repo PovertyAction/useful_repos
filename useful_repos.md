@@ -52,7 +52,7 @@ This section is devoted to repos developed by IPA/J-Pal staff that showcase code
 |	  ---	   |   ---	  |		  ---	     |
 
 <br />
-**R <br />
+**R** <br />
 R is a free software programming language and software environment for statistical computing and graphics. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. The author has no experience with R, but hears that a lot of very awesome people are using it. Who will triumph, pandas or R? We wait with baited breath.
  
 This section is devoted to repos developed by IPA/J-Pal staff that showcase code that uses R for data work.
