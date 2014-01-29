@@ -27,8 +27,8 @@ Github is a social network that started as a developer's collaborative platform.
 
 This section is devoted to repos that contain useful information, examples and tutorials that will help users get to grips with git. 
 
-| **Title**	   | **link** | **Status** | ** Description** |
-|	  ---	   |   ---	  |	   ---	   |		---		  |
+| **Title**	   | **link** | **Status** | **Description** |
+|	  ---	   |   ---	  |	   ---	   |		---		 |
 
 <br />
 **Stata** <br />
@@ -36,8 +36,8 @@ Stata is the stats and data management program that we all know and love. Some o
 
 This section is devoted to repos developed by IPA/J-PAL staff that showcase programs written for stata and code that relates to data work. Let's see some of the magic our staff are working with the economist's most favoured stas package! 
 
-| **Title**	   | **link** | **Status** | ** Description** |
-|	  ---	   |   ---	  |	   ---	   |		---		  |
+| **Title**	   | **link** | **Status** | **Description** |
+|	  ---	   |   ---	  |	   ---	   |		---		 |
 
 <br />
 **General Python** <br />
@@ -45,8 +45,8 @@ Python is a widely used general-purpose, high-level programming language. Its de
 
 This section is devoted to repos developed by IPA/J-PAL staff that utilise python for tasks that fall outside of the Pandas/Scipy universe (see below). Get in on the python action!
 
-| **Title**	   | **link** | **Status** | ** Description** |
-|	  ---	   |   ---	  |	   ---	   |		---		  |
+| **Title**	   | **link** | **Status** | **Description** |
+|	  ---	   |   ---	  |	   ---	   |		---		 |
 
 <br />
 **Pandas/Scipy** <br />
@@ -54,8 +54,8 @@ Pandas is the python library developed by Wes McKinney. The flexibility and obje
 
 This section is devoted to repos developed by IPA/J-Pal staff that showcase code that uses pandas/Scipy for data work. Once used the user will never look back!
 
-| **Title**	   | **link** | **Status** | ** Description** |
-|	  ---	   |   ---	  |	   ---	   |		---		  |
+| **Title**	   | **link** | **Status** | **Description** |
+|	  ---	   |   ---	  |	   ---	   |		---		 |
 
 <br />
 **R** <br />
@@ -63,8 +63,8 @@ R is a free software programming language and software environment for statistic
  
 This section is devoted to repos developed by IPA/J-Pal staff that showcase code that uses R for data work.
 
-| **Title**	   | **link** | **Status** | ** Description** |
-|	  ---	   |   ---	  |	   ---	   |		---		  |
+| **Title**	   | **link** | **Status** | **Description** |
+|	  ---	   |   ---	  |	   ---	   |		---		 |
 
 <br />
 **Python in DataNitro** <br />
@@ -72,26 +72,26 @@ DataNitro is an Excel add in that allows user to execute python scripts in excel
 
 This section is devoted to repos developed by IPA/J-PAL staff that showcase programs and tools developed in python for execution in excel using DataNitro. Can you hear VBA crying in the corner? 
 
-| **Title**	   | **link** 											| **Status** | ** Description** |
-|RMG Marketing |https://github.com/RMGProjects/RMG-Marketing_Program| Closed	 | A data collection tool for use in a telemarketing project |
+| **Title**	    | **link** 											  | **Status** | **Description** |
+| RMG Marketing |https://github.com/RMGProjects/RMG-Marketing_Program | Closed	   | A data collection tool for use in a telemarketing project |
 
 <br />
 **Pythonista** <br />
 Pythonista is quite possibly the most exciting iOS application out there. It allows user to program directly into their iOS devices thereby creating applications. The best python modules are included (save numpy/pandas and scipy, sad face), as well as pythonista modules that allow users to get access to their other apps, the iOS file directory, graphics, dropbox, camera. The works. Create create create!!! And guess what, you can even convert your work to Xcode and get your apps in the AppStore!
 
-This section is devoted to repos devloped by IPA/J-PAL staff that showcase applications and tools developed in Pythonista. 
+This section is devoted to repos developed by IPA/J-PAL staff that showcase applications and tools developed in Pythonista. 
 
-| **Title**	   	  | **link** 							 			| **Status** | ** Description** |
-|RMG Observations | https://github.com/RMGProjects/RMG-Observations |	Open	 | An application for data collection and worker observation in sweater factories. |
+| **Title**	   	   | **link** 							 			| **Status** | **Description** |
+| RMG Observations | https://github.com/RMGProjects/RMG-Observations |	Open	 | An application for data collection and worker observation in sweater factories. |
 
 <br />
 **Data Visualisations** <br />
 Gone are days of boring graphs. Ours is the time of interactive graphs, 3D graphs, moving graphics. Tell a story with you data. With libraries like matplotlib, projects like nodebox and many others, data is no longer something of science, but pop science fiction!
 
-This section is devoted to repos devloped by IPA-J-PAL staff that showcase new and interesting ways to visualise data.
+This section is devoted to repos developed by IPA-J-PAL staff that showcase new and interesting ways to visualise data.
 
-| **Title**	   | **link** | **Status** | ** Description** |
-|	  ---	   |   ---	  |	   ---	   |		---		  |
+| **Title**	   | **link** | **Status** | **Description** |
+|	  ---	   |   ---	  |	   ---	   |		---		 |
 
 
 
