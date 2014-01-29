@@ -72,8 +72,8 @@ DataNitro is an Excel add in that allows user to execute python scripts in excel
 
 This section is devoted to repos developed by IPA/J-PAL staff that showcase programs and tools developed in python for execution in excel using DataNitro. Can you hear VBA crying in the corner? 
 
-| **Title**	    | **link** 											  | **Status** | **Description** |
-| RMG Marketing |https://github.com/RMGProjects/RMG-Marketing_Program | Closed	   | A data collection tool for use in a telemarketing project |
+| **Title**	    | **link** 											   | **Status** | **Description** |
+| RMG Marketing | https://github.com/RMGProjects/RMG-Marketing_Program | Closed	    | A data collection tool for use in a telemarketing project |
 
 <br />
 **Pythonista** <br />
@@ -81,8 +81,8 @@ Pythonista is quite possibly the most exciting iOS application out there. It all
 
 This section is devoted to repos developed by IPA/J-PAL staff that showcase applications and tools developed in Pythonista. 
 
-| **Title**	   	   | **link** 							 			| **Status** | **Description** |
-| RMG Observations | https://github.com/RMGProjects/RMG-Observations |	Open	 | An application for data collection and worker observation in sweater factories. |
+| **Title**	   	   | **link** 							 			 | **Status** | **Description** |
+| RMG Observations | https://github.com/RMGProjects/RMG-Observations |	Open	  | An application for data collection and worker observation in sweater factories. |
 
 <br />
 **Data Visualisations** <br />
