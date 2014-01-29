@@ -29,7 +29,7 @@ This section is devoted to repos that contain useful information, examples and t
 
 | **Title**	   | **link** | **Status** | **Description** |
 |	  ---	   |   ---	  |	   ---	   |		---		 |
-| Markdown Cheat Sheet | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-tables |	NA | Use this to learn how to write in markdown. Always consider adding a Readme.md file to your repo so that users can instantly understand what you are trying to achieve, and what your code is supposed to do. |
+| Markdown Cheat Sheet | github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-tables |	NA | Use this to learn how to write in markdown. Always consider adding a Readme.md file to your repo so that users can instantly understand what you are trying to achieve, and what your code is supposed to do. |
 
 <br />
 **Stata** <br />
