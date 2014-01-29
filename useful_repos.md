@@ -29,7 +29,7 @@ This section is devoted to repos that contain useful information, examples and t
 
 | **Title**	   | **link** | **Status** | **Description** |
 |	  ---	   |   ---	  |	   ---	   |		---		 |
-| Markdown Cheat Sheet | github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-tables |	NA | Use this to learn how to write in markdown. Always consider adding a Readme.md file to your repo so that users can instantly understand what you are trying to achieve, and what your code is supposed to do. |
+| Markdown Cheat Sheet | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-tables |	NA | Use this to learn how to write in markdown. Always consider adding a Readme.md file to your repo so that users can instantly understand what you are trying to achieve, and what your code is supposed to do. |
 
 <br />
 **Stata** <br />
@@ -75,7 +75,7 @@ This section is devoted to repos developed by IPA/J-PAL staff that showcase prog
 
 | **Title**	    | **Link** 									   | **Status** | **Description** |
 | --- 			| --- 										   | --- 		| ---			  |
-| RMG Marketing | github.com/RMGProjects/RMG-Marketing_Program | Closed	    | A data collection tool for use in a telemarketing project |
+| RMG Marketing |  https://github.com/RMGProjects/RMG-Marketing_Program | Closed	    | A data collection tool for use in a telemarketing project |
 
 <br />
 **Pythonista** <br />
@@ -85,7 +85,7 @@ This section is devoted to repos developed by IPA/J-PAL staff that showcase appl
 
 | **Title**	   	   | **Link** 							 	 | **Status** | **Description** |
 | --- 			   | --- 									 | --- 		  | ---			    |
-| RMG Observations | github.com/rmgprojects/rmg-observations |	Open	  | An application for data collection and worker observation in sweater factories. |
+| RMG Observations |  https://github.com/rmgprojects/rmg-observations |	Open	  | An application for data collection and worker observation in sweater factories. |
 
 <br />
 **Data Visualisations** <br />
