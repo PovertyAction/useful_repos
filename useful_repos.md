@@ -4,7 +4,13 @@
 | Author:      | **Rory Creedon** (rcreedon@poverty-action.org) |
 | Use:         | Repo contains one .md file that links users to useful repos |
 
-**Information and use** - This repo is intended to link users to repos created by IPA/J-PAL staff that might of use to IPA/J-PAL staff undertaking work in similar fields. Currently the contents of the repo is a sole useful_repos.md file. This could be expanded to contain other documentation as need develops. If you wish to add your project to this list, or add other documents then fork the repo in the normal manner. Alternatively contact the author at the given address if you have suggestions/additions that you prefer to make via email. Currently the links will be organised according to the following headings:
+# Useful GitHub Repos for IPA/J-PAL Staff
+
+## Follow your colleagues as they tackle new technologies to get the job done! Learn from past projects and collaborate on new ones. 
+
+**Information and use** - This repo is intended to link users to repos created by IPA/J-PAL staff that might of use to IPA/J-PAL staff undertaking work in similar fields. Currently the contents of the repo is a sole useful_repos.md file. This could be expanded to contain other documentation as need develops. If you wish to add your project to this list, or add other documents then fork the repo in the normal manner. Alternatively contact the author at the given address if you have suggestions/additions that you prefer to make via email. If the status of the repo is 'closed' that means that the repo is published for information purposes, if the repo is 'open' then the author may be looking for collaborators. 
+
+Currently the links will be organised according to the following headings:
 + Github
 + Stata Programs
 + General Python
@@ -21,8 +27,8 @@ Github is a social network that started as a developer's collaborative platform.
 
 This section is devoted to repos that contain useful information, examples and tutorials that will help users get to grips with git. 
 
-| **Title**	   | **link** | ** Description** |
-|	  ---	   |   ---	  |		  ---	     |
+| **Title**	   | **link** | **Status** | ** Description** |
+|	  ---	   |   ---	  |	   ---	   |		---		  |
 
 <br />
 **Stata** <br />
@@ -30,8 +36,8 @@ Stata is the stats and data management program that we all know and love. Some o
 
 This section is devoted to repos developed by IPA/J-PAL staff that showcase programs written for stata and code that relates to data work. Let's see some of the magic our staff are working with the economist's most favoured stas package! 
 
-| **Title**	   | **link** | ** Description** |
-|	  ---	   |   ---	  |		  ---	     |
+| **Title**	   | **link** | **Status** | ** Description** |
+|	  ---	   |   ---	  |	   ---	   |		---		  |
 
 <br />
 **General Python** <br />
@@ -39,8 +45,8 @@ Python is a widely used general-purpose, high-level programming language. Its de
 
 This section is devoted to repos developed by IPA/J-PAL staff that utilise python for tasks that fall outside of the Pandas/Scipy universe (see below). Get in on the python action!
 
-| **Title**	   | **link** | ** Description** |
-|	  ---	   |   ---	  |		  ---	     |
+| **Title**	   | **link** | **Status** | ** Description** |
+|	  ---	   |   ---	  |	   ---	   |		---		  |
 
 <br />
 **Pandas/Scipy** <br />
@@ -48,8 +54,8 @@ Pandas is the python library developed by Wes McKinney. The flexibility and obje
 
 This section is devoted to repos developed by IPA/J-Pal staff that showcase code that uses pandas/Scipy for data work. Once used the user will never look back!
 
-| **Title**	   | **link** | ** Description** |
-|	  ---	   |   ---	  |		  ---	     |
+| **Title**	   | **link** | **Status** | ** Description** |
+|	  ---	   |   ---	  |	   ---	   |		---		  |
 
 <br />
 **R** <br />
@@ -57,8 +63,8 @@ R is a free software programming language and software environment for statistic
  
 This section is devoted to repos developed by IPA/J-Pal staff that showcase code that uses R for data work.
 
-| **Title**	   | **link** | ** Description** |
-|	  ---	   |   ---	  |		  ---	     |
+| **Title**	   | **link** | **Status** | ** Description** |
+|	  ---	   |   ---	  |	   ---	   |		---		  |
 
 <br />
 **Python in DataNitro** <br />
@@ -66,8 +72,8 @@ DataNitro is an Excel add in that allows user to execute python scripts in excel
 
 This section is devoted to repos developed by IPA/J-PAL staff that showcase programs and tools developed in python for execution in excel using DataNitro. Can you hear VBA crying in the corner? 
 
-| **Title**	   | **link** | ** Description** |
-|	  ---	   |   ---	  |		  ---	     |
+| **Title**	   | **link** 											| **Status** | ** Description** |
+|RMG Marketing |https://github.com/RMGProjects/RMG-Marketing_Program| Closed	 | A data collection tool for use in a telemarketing project |
 
 <br />
 **Pythonista** <br />
@@ -75,8 +81,8 @@ Pythonista is quite possibly the most exciting iOS application out there. It all
 
 This section is devoted to repos devloped by IPA/J-PAL staff that showcase applications and tools developed in Pythonista. 
 
-| **Title**	   | **link** | ** Description** |
-|	  ---	   |   ---	  |		  ---	     |
+| **Title**	   	  | **link** 							 			| **Status** | ** Description** |
+|RMG Observations | https://github.com/RMGProjects/RMG-Observations |	Open	 | An application for data collection and worker observation in sweater factories. |
 
 <br />
 **Data Visualisations** <br />
@@ -84,9 +90,8 @@ Gone are days of boring graphs. Ours is the time of interactive graphs, 3D graph
 
 This section is devoted to repos devloped by IPA-J-PAL staff that showcase new and interesting ways to visualise data.
 
-| **Title**	   | **link** | ** Description** |
-|	  ---	   |   ---	  |		  ---	     |
-
+| **Title**	   | **link** | **Status** | ** Description** |
+|	  ---	   |   ---	  |	   ---	   |		---		  |
 
 
 
