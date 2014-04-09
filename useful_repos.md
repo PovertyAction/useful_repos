@@ -76,6 +76,7 @@ This section is devoted to repos developed by IPA/J-PAL staff that showcase prog
 | **Title**	    | **Link** 									   | **Status** | **Description** |
 | --- 			| --- 										   | --- 		| ---			  |
 | RMG Marketing |  https://github.com/RMGProjects/RMG-Marketing_Program | Closed	    | A data collection tool for use in a telemarketing project |
+| WorkbookFunctions| https://github.com/RMGProjects/WorkbookFunctions |Open | A library for collating worksheets, performing checks on dates, columns values and associated tasks. |
 
 <br />
 **Pythonista** <br />
