@@ -57,6 +57,8 @@ This section is devoted to repos developed by IPA/J-Pal staff that showcase code
 
 | **Title**	   | **link** | **Status** | **Description** |
 |	  ---	   |   ---	  |	   ---	   |		---		 |
+| ExceltoPandas | https://github.com/RMGProjects/Excel_to_Pandas | Open | A library that takes a multi-worksheet excel file and a descriptive workbook structure object such as that created by the WorkbookFunctions module (see below) and extracts data from each sheet and concatenates it into a single data set. Useful especially when excel data sheets are irregularly spaced.|
+| PySurveyClean | https://github.com/RMGProjects/PySurveyClean | Open | A project in development stage to provide tools for survey cleaning optimization. 
 
 <br />
 **R** <br />
@@ -76,7 +78,7 @@ This section is devoted to repos developed by IPA/J-PAL staff that showcase prog
 | **Title**	    | **Link** 									   | **Status** | **Description** |
 | --- 			| --- 										   | --- 		| ---			  |
 | RMG Marketing |  https://github.com/RMGProjects/RMG-Marketing_Program | Closed	    | A data collection tool for use in a telemarketing project |
-| WorkbookFunctions| https://github.com/RMGProjects/WorkbookFunctions |Open | A library for collating worksheets, performing checks on dates, columns values and associated tasks. |
+| WorkbookFunctions| https://github.com/RMGProjects/WorkbookFunctions |Open | A library for collating Excel worksheets, performing checks on dates, columns values and associated tasks. Designed to describe perfectly the structure of worksheets that may have irregular spacing. Key output is a workbook structure object that describes each sheet which can then be used in conjunction with a `pandas.ExcelFile` object to extract relevant data. See ExceltoPandas module (above) for more information about that process.   |
 
 <br />
 **Pythonista** <br />
